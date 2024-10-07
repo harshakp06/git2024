@@ -4,3 +4,6 @@ new code
 
 
 last code
+
+
+fetch + merge = pull
